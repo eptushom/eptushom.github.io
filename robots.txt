@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eptushom.github.io/sitemap.html.gz
+Sitemap: https://eptushom.github.io/app/sitemap.html.gz
+Sitemap: https://eptushom.github.io/assets/sitemap.html.gz
+Sitemap: https://eptushom.github.io/css/sitemap.html.gz
+Sitemap: https://eptushom.github.io/includes/sitemap.html.gz
+Sitemap: https://eptushom.github.io/item/sitemap.html.gz
+Sitemap: https://eptushom.github.io/src/sitemap.html.gz
